@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhang Xiaoshi(Stephen)"
+title                    : "Zhang Xiaoshi (Stephen)"
 title_separator          : "-"
 name                     : &name "Zhang Xiaoshi"
-description              : &description "M.Sc.at National University of Singapore"
+description              : &description "M.Sc. of ME at National University of Singapore"
 url                      : https://zhang-xiaoshi.github.io/zhangxiaoshi.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhang-xiaoshi.github.io/zhangxiaoshi.github.io/"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Zhang Xiaoshi"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "M.Sc. of ME at National University of Singapore"
+  location         : "Singapore"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "http://scholar.google.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "zhang-xiaosh"
   google_plus      :
   keybase          :
   instagram        :
