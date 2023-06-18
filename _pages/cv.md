@@ -21,6 +21,7 @@ Education
   * Major：Mechanical Engineering,
   * GPA：4.83/5
   * Core Courses：Neural Networks, Deep Learning for Robotics, Linear Systems(A), Engineering Acoustics(A)
+
 Research and Work Experience
 ======
 * 2022.11 - Now: Reinforcement learning for tactile-based manipulation control
@@ -51,7 +52,7 @@ control using deep reinforcement learning algorithms(DDPG and TD3).
     (2)Studied inverse kinematics based on the serpenoid curve.
     (3)Verified control feasibility using ADAMS-Simulink co-simulation.
   * Published on Journal of Physics: Conference Series. Vol. 1965. No. 1. IOP Publishing, 2021.(EI Compendex).
-   
+
 Skills
 ======
 * English skills: IELTS 7.0()
@@ -61,7 +62,7 @@ Skills
   * Dynamics Simulation with contacts: ADAMS,Matlab Simulink, ADAMS-Simulink Co-simulation
   * Reinforcement Learning: Matlab RL Toolbox, Pytorch
   * Robotics: ROS
-    
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
