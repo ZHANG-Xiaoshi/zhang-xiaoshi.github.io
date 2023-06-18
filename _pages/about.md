@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am an M.Sc. of Mechanical Engineering at [National University of Singapore]( https://www.nus.edu.sg/). I am currently an intern in [ASTAR](https://www.a-star.edu.sg/), [I2R](https://www.a-star.edu.sg/i2r), doing research on 'Tactile-Based Dexterous Manipulation".Before that, I received a B.Eng.(2022) in Mechanical Engineering from [Harbin Institute of Technology](http://en.hit.edu.cn/)
+Hi, I am an M.Sc. of Mechanical Engineering at [National University of Singapore]( https://www.nus.edu.sg/). I am currently an intern in [ASTAR](https://www.a-star.edu.sg/), [I2R](https://www.a-star.edu.sg/i2r), doing research on 'Tactile-Based Dexterous Manipulation". 
+
+Before that, I received a B.Eng.(2022) in Mechanical Engineering from [Harbin Institute of Technology](http://en.hit.edu.cn/)
 
 
 
