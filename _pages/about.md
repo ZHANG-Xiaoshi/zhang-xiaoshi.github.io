@@ -14,6 +14,6 @@ Hi, I am an M.Sc. of Mechanical Engineering at [National University of Singapore
 
 Research Interest & Research Experience
 ======
-My research experience includes the control of tensegrity snake-like robots, the application of reinforcement learning to the double inverted pendulum control problem, and tactile-based dexterous manipulation. I have one article published and one article accepted.
+My research experience includes "Control of a Tensegrity Snake-like Robot"(one article published), "Reinforcement Learning for Double Inverted Pendulum Control Problem"(one article accepted), and "Tactile-Based Dexterous Manipulation".
 
-Now I am very interested in the application of reinforcement learning in robotics, and I am going to study for a Ph.D in this direction.
+Now I am very interested in the application of reinforcement learning in robotics, and I plan to pursue a Ph.D. in this direction.
