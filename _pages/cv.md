@@ -62,6 +62,7 @@ Skills
   * Dynamics Simulation with contacts: ADAMS,Matlab Simulink, ADAMS-Simulink Co-simulation
   * Reinforcement Learning: Matlab RL Toolbox, Pytorch
   * Robotics: ROS
+* Others: Microsoft Office, LaTeX
   
 Publications
 ======
@@ -75,11 +76,3 @@ Research Interest
 * Robotics
 * Dexterous Manipulation
 
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
