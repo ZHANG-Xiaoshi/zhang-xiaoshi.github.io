@@ -30,7 +30,7 @@ robot motion, we studied its inverse kinematics and performed simulation based o
 
 ### [Deep Reinforcement Learning for Double Inverted Pendulum Problem(Accepted)]()
 
-Abstract: Double inverted pendulum is a strong non-linear, high-order, unstable system.This paper solves three control tasks of double inverted pendulum: the stablizing control, swinging-up control, and the upperpendulum -rotating control, with deep reinforcement learning algorithms DDPG and TD3, and then evaluates the control performance with simulation. The control performance and the learning performance of TD3 and DDPG in the 3 control tasks, are compared and analyzed. To be mentioned the results show an anomaly that TD3 performs worse than DDPG in double inverted pendulum problem, which is worth to be further studied.
+Abstract: Double inverted pendulum is a strong non-linear, high-order, unstable system.This paper solves three control tasks of double inverted pendulum: the stablizing control, swinging-up control, and the upper-pendulum-rotating control, with deep reinforcement learning algorithms DDPG and TD3, and then evaluates the control performance with simulation. The control performance and the learning performance of TD3 and DDPG in the 3 control tasks, are compared and analyzed. To be mentioned the results show an anomaly that TD3 performs worse than DDPG in double inverted pendulum problem, which is worth to be further studied.
 
 Accepted by "The 5th International Conference on Machine Learning and Machine Intelligence", however searching for more reputable conferences.
 
