@@ -11,66 +11,51 @@ redirect_from:
 
 Education
 ======
-* B.Eng., Harbin Institute of Technology (2018.08-2021.07)
-  * Major：Mechanical Engineering,
-  * GPA：86.9/100
-* Joint education program, NUS (Suzhou) Research Institute (2021.09 - 2022.07)
-  * Major：Mechanical Engineering,
-  * GPA：89.3/100
-* M.Sc., National University of Singapore, Master of Science (2022.08-2023.12)
-  * Major：Mechanical Engineering,
-  * GPA：4.83/5
-  * Core Courses：Neural Networks, Deep Learning for Robotics, Linear Systems(A), Engineering Acoustics(A)
-Research and Work Experience
+* B.S. in GitHub, GitHub University, 2012 dfsadjfajksfaksjdf
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+Work experience
 ======
-* 2022.11 - Now: Reinforcement learning for tactile-based manipulation control
-  * Research Internship at The Agency for Science, Technology, and Research (A*STAR) of Singapore
-  * Research objective: To solve the ”peg in hole assembly” task with tactile feedback
-  * Supervisors: Prof. Chew Chee Meng, Dr.Wu Yan 
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
 
-
-* 2021.09 - 2022.06: Deep reinforcement learning for double inverted pendulum control
-  * Final year project at NUS (Suzhou) Research Institute
-  * Research objective: To study the application of RL algorithms in continuous control problems
-  * Supervisor: Prof. Chew Chee Meng
-  * Contributions:
-    (1)Proposed neural network controllers for double inverted pendulum stabilizing, swinging up, and limit cycle
-control using deep reinforcement learning algorithms(DDPG and TD3).
-    (2)Reduced the steady-state error in the stabilization control and improved the disturbance immunity by optimizing the reward function and the environment.
-    (3)Proposed a control framework combining RL with state feedback control.
-    (4)Validated control performance using Simulink and Simscape.
-  * This work is accepted by The 5th International Conference on Machine Learning and Machine Intelligence
-(ACM Conference), however we are searching for better conferences to publish.
-
-* 2021.03 - 2021.06: Modeling and motion simulation of a tensegrity snake-like robot
-  * Research Internship at Harbin Institute of Technology
-  * Research objective: To study the application of RL algorithms in continuous control problems
-  * Supervisor: Prof. He Jingfeng
-  * Contributions:
-    (1)Proposed a snake-like robot driven by actuating cables on the both sides based on tensegrity structure.
-    (2)Studied inverse kinematics based on the serpenoid curve.
-    (3)Verified control feasibility using ADAMS-Simulink co-simulation.
-  * Published on Journal of Physics: Conference Series. Vol. 1965. No. 1. IOP Publishing, 2021.(EI Compendex).
-   
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+  
 Skills
 ======
-* English skills: IELTS 7.0()
-* Programming Skills: C/C++, Python, Matlab
-* Proficient Softwares:
-  * Mechanical Designing and FEM: Solidworks, AutoCAD, ANSYS, Abaqus,
-  * Dynamics Simulation with contacts: ADAMS,Matlab Simulink, ADAMS-Simulink Co-simulation
-  * Reinforcement Learning: Matlab RL Toolbox, Pytorch
-  * Robotics: ROS
-    
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Research Interest
+Talks
 ======
-* Reinforcement Learning
-* Robotics
-* Dexterous Manipulation
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
+
     
