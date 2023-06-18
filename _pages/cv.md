@@ -11,16 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.Eng. at Harbin Institute of Technology (2018.08-2021.07)
-  * Major：Mechanical Engineering,
-  * GPA：86.9/100
-* Joint education program at NUS (Suzhou) Research Institute (2021.09 - 2022.07)
-  * Major：Mechanical Engineering,
-  * GPA：89.3/100
 * M.Sc. at National University of Singapore, Master of Science (2022.08-2023.12)
   * Major：Mechanical Engineering,
   * GPA：4.83/5
   * Core Courses：Neural Networks, Deep Learning for Robotics, Linear Systems(A), Engineering Acoustics(A)
+* Joint education program at NUS (Suzhou) Research Institute (2021.09 - 2022.07)
+  * Major：Mechanical Engineering,
+  * GPA：89.3/100
+* B.Eng. at Harbin Institute of Technology (2018.08-2021.07)
+  * Major：Mechanical Engineering,
+  * GPA：86.9/100
+
+
 
 Research and Work Experience
 ======
