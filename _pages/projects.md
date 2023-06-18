@@ -8,7 +8,8 @@ redirect_from:
 - /project/
 - /project.html
 ---
-
+别吵吵，消停等着。
+Comming Soon，Stay tuned Pleeeeeaaaaaase 
 <div style='display: none'>
 ### SOOT Morph Investigator
 
