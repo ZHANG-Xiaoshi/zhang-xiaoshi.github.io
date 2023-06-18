@@ -9,7 +9,7 @@ redirect_from:
 - /project.html
 ---
 
-
+<div style='display: none'>
 ### SOOT Morph Investigator
 
 Intersection project. Introduce CV into atmospheric particle identification. Built an automatic program for batch processing electro-microscope images.
@@ -64,3 +64,5 @@ Training curriculum is also modified into a simpler version.
 Trained trotting, bounding, galloping and fall recovery policies.
 
 Period: Oct 2022 - Jan 2023
+
+</div>
