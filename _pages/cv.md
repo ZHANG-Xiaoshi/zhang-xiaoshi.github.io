@@ -35,11 +35,11 @@ Research and Work Experience
   * Research objective: To study the application of RL algorithms in continuous control problems
   * Supervisor: Prof. Chew Chee Meng
   * Contributions:
-    *(1)Proposed neural network controllers for double inverted pendulum stabilizing, swinging up, and limit cycle
+    * (1)Proposed neural network controllers for double inverted pendulum stabilizing, swinging up, and limit cycle
 control using deep reinforcement learning algorithms(DDPG and TD3).
-    *(2)Reduced the steady-state error in the stabilization control and improved the disturbance immunity by optimizing the reward function and the environment.
-    *(3)Proposed a control framework combining RL with state feedback control.
-    *(4)Validated control performance using Simulink and Simscape.
+    * (2)Reduced the steady-state error in the stabilization control and improved the disturbance immunity by optimizing the reward function and the environment.
+    * (3)Proposed a control framework combining RL with state feedback control.
+    * 4)Validated control performance using Simulink and Simscape.
   * This work is accepted by The 5th International Conference on Machine Learning and Machine Intelligence
 (ACM Conference), however we are searching for better conferences to publish.
 
@@ -48,9 +48,9 @@ control using deep reinforcement learning algorithms(DDPG and TD3).
   * Research objective: To study the application of RL algorithms in continuous control problems
   * Supervisor: Prof. He Jingfeng
   * Contributions:
-    *(1)Proposed a snake-like robot driven by actuating cables on the both sides based on tensegrity structure.
-    *(2)Studied inverse kinematics based on the serpenoid curve.
-    *(3)Verified control feasibility using ADAMS-Simulink co-simulation.
+    * (1)Proposed a snake-like robot driven by actuating cables on the both sides based on tensegrity structure.
+    * (2)Studied inverse kinematics based on the serpenoid curve.
+    * (3)Verified control feasibility using ADAMS-Simulink co-simulation.
   * Published on Journal of Physics: Conference Series. Vol. 1965. No. 1. IOP Publishing, 2021.(EI Compendex).
 
 Skills
