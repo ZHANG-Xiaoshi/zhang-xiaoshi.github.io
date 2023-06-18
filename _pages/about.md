@@ -13,8 +13,7 @@ Hi, I am an M.Sc. of Mechanical Engineering at [National University of Singapore
 Before that, I received a B.Eng.(2022) in Mechanical Engineering from [Harbin Institute of Technology](http://en.hit.edu.cn/)
 
 
-
-Research Interest & Research Experience
+Research Experience & Interest
 ======
 My research experience includes "Control of a Tensegrity Snake-like Robot"(one article published), "Reinforcement Learning for Double Inverted Pendulum Control Problem"(one article accepted), and "Tactile-Based Dexterous Manipulation".
 
