@@ -28,4 +28,5 @@ I've been a fan of BGM music. Some of them:
 6. .....
 
 🔥 Video Creation
-I am a “Potential Internet Celebrity” in Bilibili with Only 999,000 fans away from having a million fans
+I am a “Potential Internet Celebrity” in [Bilibili] (https://space.bilibili.com/35237895?spm_id_from=333.1007.0.0) with Only 999,000 fans away from having one million fans
+
