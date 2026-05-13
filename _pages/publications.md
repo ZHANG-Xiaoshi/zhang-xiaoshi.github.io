@@ -18,6 +18,15 @@ This project studied a cable-driven tensegrity snake-like robot, inverse kinemat
 
 **Work content:** tensegrity mechanism, snake-like robot, serpenoid curve, motion simulation.
 
+### Deep Reinforcement Learning for Double Inverted Pendulum Problem
+
+**Xiaoshi Zhang**, et al. IEEE Xplore record, 2024.  
+[IEEE Xplore link](https://ieeexplore.ieee.org/abstract/document/10611541)
+
+This work studied deep reinforcement learning controllers for double inverted pendulum control tasks, including stabilization, swing-up, and rotating control in simulation.
+
+**Work content:** deep reinforcement learning, DDPG, TD3, double inverted pendulum, nonlinear control.
+
 ## Unpublished Work Highlights
 
 ### HyTouch: Hybrid Multimodal Tactile Sensor
