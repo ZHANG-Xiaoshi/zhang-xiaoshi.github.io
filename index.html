@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Xiaoshi Zhang | Robotic Tactile Intelligence</title>
+  <meta name="description" content="Xiaoshi Zhang builds tactile perception systems for dexterous robotics, multimodal sensing, and real-time robot learning.">
+  <link rel="stylesheet" href="assets/css/zxs-site.css">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="nav">
+      <a class="brand" href="./">Xiaoshi Zhang</a>
+      <div class="nav-links">
+        <a href="./#research">Research</a>
+        <a href="projects/">Projects</a>
+        <a href="publications/">Publications</a>
+        <a href="cv/">CV</a>
+        <a href="moreaboutme/">Beyond Research</a>
+        <a href="https://github.com/ZHANG-Xiaoshi">GitHub</a>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero wrap">
+      <div>
+        <p class="kicker">Robotic Tactile Intelligence</p>
+        <h1>I build tactile perception systems for robots that need to feel, predict, and act in contact-rich environments.</h1>
+        <p class="lead">My work combines bio-inspired tactile sensor hardware, force-vision fusion, physics-guided learning, and real-time robot control. I am especially interested in dexterous manipulation systems that close the loop between tactile perception and action.</p>
+        <div class="actions">
+          <a class="button primary" href="projects/">Selected Projects</a>
+          <a class="button" href="publications/">Publications</a>
+          <a class="button" href="cv/">CV</a>
+        </div>
+      </div>
+      <aside class="profile">
+        <img src="images/profile_zxs.png" alt="Xiaoshi Zhang">
+        <div>
+          <p><strong>Xiaoshi Zhang</strong></p>
+          <p>Robotic tactile intelligence, multimodal sensing, and real-time robot learning.</p>
+          <p>Singapore / Harbin, China</p>
+        </div>
+      </aside>
+    </section>
+
+    <section class="wrap section">
+      <div class="metrics">
+        <div class="metric"><strong>2.98 ms</strong><span>real-time tactile prediction latency</span></div>
+        <div class="metric"><strong>300 Hz</strong><span>force-tactile tracking for cable following</span></div>
+        <div class="metric"><strong>0.019 mm</strong><span>dual-press thickness estimation MAE</span></div>
+        <div class="metric"><strong>99.25%</strong><span>hybrid tactile material classification</span></div>
+      </div>
+    </section>
+
+    <section class="wrap section" id="research">
+      <h2>Research Vision</h2>
+      <p>I study how robots can use touch as an active, high-bandwidth sense for manipulation. Vision-based tactile sensors capture rich contact geometry but often run too slowly for fast contact transitions; electronic force arrays respond quickly but are spatially sparse. My research direction is to make these modalities work together: sensing hardware that co-locates complementary signals, learning systems that fuse them causally, and controllers that can use tactile feedback in real time.</p>
+      <p>My current research agenda focuses on multimodal tactile sensing, real-time tactile prediction, and robust tactile deployment under live robot domain shift.</p>
+    </section>
+
+    <section class="wrap section">
+      <h2>Selected Work</h2>
+      <div class="cards">
+        <article class="card">
+          <img src="images/research/hytouch-overview.png" alt="HyTouch tactile sensor overview">
+          <div class="card-body">
+            <p class="kicker">Sensor Hardware</p>
+            <h3>HyTouch: Bio-inspired Hybrid Tactile Sensor</h3>
+            <p>A co-located visual-tactile and force-tactile sensor designed to address the tactile trilemma.</p>
+            <p class="tags">300 Hz / 24 cm/s / 99.25%</p>
+            <a href="projects/#hytouch">Read project</a>
+          </div>
+        </article>
+        <article class="card">
+          <img src="images/research/gelxela-overview.png" alt="GelXelaCrossAttn overview">
+          <div class="card-body">
+            <p class="kicker">Real-Time Prediction</p>
+            <h3>GelXelaCrossAttn</h3>
+            <p>A physics-informed force-vision attention model for sub-10 ms tactile frame prediction.</p>
+            <p class="tags">2.98 ms / 36.67 dB / 0.941 SSIM</p>
+            <a href="projects/#gelxela">Read project</a>
+          </div>
+        </article>
+        <article class="card">
+          <img src="images/research/material-moe-overview.png" alt="Tactile material identification overview">
+          <div class="card-body">
+            <p class="kicker">Robust Deployment</p>
+            <h3>Thickness-Routed Tactile MoE</h3>
+            <p>A dual-press force-tactile pipeline for robust sheet-material identification.</p>
+            <p class="tags">0.019 mm MAE / 86.9% Top-1</p>
+            <a href="projects/#material-moe">Read project</a>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="wrap section">
+      <h2>News</h2>
+      <p><strong>2026:</strong> Developed a physics-informed force-vision model for real-time tactile frame prediction in cable manipulation.</p>
+      <p><strong>2026:</strong> Built a dual-press tactile material identification pipeline with thickness-routed expert classifiers for manufacturing sheet materials.</p>
+      <p><strong>2026:</strong> Advanced HyTouch, a bio-inspired multimodal tactile sensor for high-resolution and high-frequency robotic perception.</p>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap">2026 Xiaoshi Zhang. Built for research, robotics, and tactile intelligence.</div>
+  </footer>
+</body>
+</html>
