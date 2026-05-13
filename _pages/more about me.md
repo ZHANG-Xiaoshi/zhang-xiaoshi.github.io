@@ -1,31 +1,22 @@
 ---
 layout: archive
-title: "More About Me"
+title: "Beyond Research"
 permalink: /moreaboutme/
 author_profile: true
 ---
 
 {% include base_path %}
 
-🔥 Video Creation
------
-I am a Potential "Internet Celebrity" in [Bilibili](https://space.bilibili.com/35237895?spm_id_from=333.1007.0.0) with Only 999,000 fans away from having One Million fans.
+Research is the center of this site, but I also like keeping a few human signals visible. I grew up in Harbin, studied mechanical engineering across HIT and NUS, and have spent much of my recent work thinking about how robots can make sense of the physical world through touch.
 
-⛷️ Sports
------
-I've played many kinds of sports and has good sense of balancing. I love
-1. Ice Sports：Good at snowboarding, snowboarding, ice skating (Harbiner's life skills)
-2. Chinese kong-fu：Beginer of "Tai Chi Plum Blossom Mantis Boxing" and "Taoist Qigong" enthusiast
-3. Some Niche Sports："unicycle", "double dragon board", "dragon board", "drift board"
+## Video Creation
 
-🎷 Music
------
-I've been a fan of BGM music. Some of them: 
-1. Hiroyuki Sawano
-2. Two Steps From Hell
-3. Hans Zimmer
-4. Ryuichi Sakamoto
-5. Shiina Go
-6. .....
+I enjoy making videos and explaining technical ideas visually. My Bilibili profile is here: [Bilibili](https://space.bilibili.com/35237895?spm_id_from=333.1007.0.0).
 
+## Movement and Balance
 
+I like sports that involve balance, body control, and timing: snowboarding, ice skating, unicycle riding, drift boards, and Chinese martial arts. That interest connects naturally with my robotics taste: contact, dynamics, feedback, and control are everywhere.
+
+## Music
+
+I enjoy cinematic and instrumental music, including Hiroyuki Sawano, Two Steps From Hell, Hans Zimmer, Ryuichi Sakamoto, and Shiina Go.
