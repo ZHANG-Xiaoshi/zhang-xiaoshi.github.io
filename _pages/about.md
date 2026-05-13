@@ -11,7 +11,7 @@ redirect_from:
 <section class="zxs-hero">
   <p class="zxs-kicker">Robotic Tactile Intelligence</p>
   <h1>Xiaoshi Zhang builds tactile perception systems for robots that need to feel, predict, and act in contact-rich environments.</h1>
-  <p class="zxs-lead">My work combines bio-inspired tactile sensor hardware, force-vision fusion, physics-guided learning, and real-time robot control. I am especially interested in dexterous manipulation systems that close the loop between tactile perception and action.</p>
+  <p class="zxs-lead">My work combines bio-inspired tactile sensor hardware, force-vision fusion, physics-guided learning, and real-time robot control. I am also an INTP-style systems thinker: a PhD researcher moving from Northeast Asia to Southeast Asia, exploring how robots, agents, and human practice can become better ways of understanding intelligence.</p>
   <div class="zxs-actions">
     <a class="btn btn--primary" href="{{ '/projects/' | relative_url }}">Selected Projects</a>
     <a class="btn" href="{{ '/publications/' | relative_url }}">Publications & Work</a>
@@ -35,6 +35,12 @@ My current research agenda is organized around three questions:
 - **Multimodal tactile sensing:** how can robotic fingertips combine high-resolution visual-tactile images with high-frequency distributed force feedback?
 - **Real-time tactile prediction:** how can fast force signals help predict dense future tactile states before the next camera frame arrives?
 - **Robust tactile deployment:** how can physically meaningful signals, such as thickness and compliance, make tactile classifiers survive the offline-to-live gap?
+
+<h2>Thinking Profile</h2>
+
+I care about the inner logic of systems: how a sensor changes what a robot can know, how a model changes what a controller can attempt, and how an agent changes the way a researcher thinks and works. My path also carries a cross-regional perspective: I grew up in Northeast Asia and am now building my PhD life in Southeast Asia, moving between engineering culture, research practice, and public writing.
+
+Before graduate school I created online media content; now I am experimenting with a more refined Xiaohongshu presence around PhD reflections, research taste, and the craft of becoming technically sharper.
 
 <div class="zxs-project-grid">
   <article class="zxs-card">
