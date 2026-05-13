@@ -9,53 +9,61 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012 dfsadjfajksfaksjdf
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**National University of Singapore**  
+M.Sc. in Mechanical Engineering, 2022-2023  
+Relevant coursework: Neural Networks, Deep Learning for Robotics, Linear Systems, Engineering Acoustics.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**NUS (Suzhou) Research Institute**  
+Joint education program in Mechanical Engineering, 2021-2022.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Harbin Institute of Technology**  
+B.Eng. in Mechanical Engineering, 2018-2021.
 
-    
+## Research and Work Experience
+
+**A*STAR Institute for Infocomm Research (I2R), Singapore**  
+Research intern / researcher in tactile-based dexterous manipulation, 2022-present  
+Supervisors: Prof. Chew Chee Meng, Dr. Wu Yan
+
+- Built tactile perception and learning systems for robotic manipulation with GelSight, XELA, force/torque sensing, and robot arms.
+- Developed multimodal tactile sensing and prediction pipelines for cable manipulation, material recognition, and contact-rich tasks.
+- Worked across hardware prototyping, force-controlled acquisition, model training, evaluation, and live operator interfaces.
+
+**NUS (Suzhou) Research Institute**  
+Final year project on deep reinforcement learning for double inverted pendulum control, 2021-2022
+
+- Implemented DDPG and TD3 controllers for stabilization, swing-up, and rotating control.
+- Improved disturbance rejection and steady-state behavior through environment and reward design.
+- Validated control behavior in Simulink and Simscape.
+
+**Harbin Institute of Technology**  
+Research internship on tensegrity snake-like robots, 2021
+
+- Proposed a cable-driven tensegrity snake-like robot design.
+- Studied inverse kinematics based on the serpenoid curve.
+- Verified motion feasibility through ADAMS-Simulink co-simulation.
+
+## Selected Projects
+
+- **HyTouch:** bio-inspired hybrid tactile sensor integrating high-resolution visual-tactile sensing and high-frequency distributed force feedback.
+- **GelXelaCrossAttn:** real-time force-vision tactile prediction with physics-informed cross-modal attention.
+- **Tactile material MoE:** robust sheet-material identification with dual-press thickness estimation and thickness-routed expert classifiers.
+- **Tensegrity snake robot:** cable-driven snake-like robot modeling and motion simulation.
+- **Double inverted pendulum RL:** continuous-control reinforcement learning for nonlinear unstable systems.
+
+## Technical Skills
+
+**Robotics and sensing:** tactile sensors, GelSight, XELA/uSkin, force/torque sensing, robot arm control, force-controlled acquisition, calibration, contact-rich manipulation.  
+**Machine learning:** PyTorch, deep reinforcement learning, cross-attention, EfficientNet, mixture-of-experts, real-time inference, evaluation pipelines.  
+**Programming:** Python, C/C++, MATLAB, ROS, Streamlit, LaTeX.  
+**Simulation and design:** SolidWorks, AutoCAD, ANSYS, Abaqus, ADAMS, Simulink, ADAMS-Simulink co-simulation.
+
+## Research Interests
+
+- Robotic tactile intelligence
+- Multimodal tactile sensing
+- Dexterous manipulation
+- Real-time robot learning
+- Physics-guided perception and control
