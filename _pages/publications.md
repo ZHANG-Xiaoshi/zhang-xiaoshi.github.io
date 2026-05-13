@@ -1,44 +1,35 @@
 ---
 layout: archive
-title: "Publications"
+title: "Work Highlights"
 permalink: /publications/
 author_profile: true
 ---
 
-## Manuscripts and Technical Reports
+This page summarizes selected research and engineering work. Unpublished documents are intentionally not hosted here.
 
-### HyTouch: A Bio-inspired Hybrid Multimodal Tactile Sensor with High Spatial and High Temporal Resolution
+## HyTouch: Hybrid Multimodal Tactile Sensor
 
-**Xiaoshi Zhang**, et al. Manuscript / technical report, 2026.  
-[PDF]({{ '/files/hytouch-tactile-sensor.pdf' | relative_url }})
+Developed a co-located visual-tactile and force-tactile sensing architecture for high-resolution spatial perception, high-frequency dynamic response, and distributed force feedback.
 
-This work proposes a co-located visual-tactile and force-tactile sensor that addresses the tactile trilemma: high-resolution spatial sensing, high-frequency dynamic response, and spatially distributed force sensing. The prototype is validated on high-speed cable following and tool-mediated material classification.
+**Work content:** sensor hardware, optical path design, calibration, cable following, material classification.  
+**Key indicators:** 300 Hz tracking, 24 cm/s cable following, 99.25% hybrid tactile classification.
 
-### Real-Time Tactile State Prediction via Physics-Informed Cross-Modal Force-Vision Attention
+## GelXelaCrossAttn: Real-Time Tactile State Prediction
 
-**Xiaoshi Zhang**, et al. Manuscript under review, 2026.  
-[PDF]({{ '/files/gelxela-cross-attention.pdf' | relative_url }})
+Built a force-vision learning pipeline that uses fast XELA force readings to predict dense GelSight tactile states for contact-rich cable manipulation.
 
-This work introduces GelXelaCrossAttn, a lightweight force-vision cross-attention network for causal GelSight frame prediction. The system reaches 36.67 dB PSNR, 0.941 SSIM, and 2.98 ms model-inference latency on a cable-manipulation tactile prediction benchmark.
+**Work content:** force-vision fusion, cross-attention, physics-informed prediction, latency-aware evaluation.  
+**Key indicators:** 2.98 ms inference latency, 36.67 dB PSNR, 0.941 SSIM, 0.83M parameters.
 
-### Robust Sheet-Material Identification via Dual-Press Thickness Estimation and Tactile Mixture-of-Experts
+## Dual-Press Tactile Material Identification
 
-**Xiaoshi Zhang**, et al. Technical report, 2026.  
-[PDF]({{ '/files/tactile-material-moe.pdf' | relative_url }})
+Implemented a force-controlled dual-press procedure that estimates sheet thickness and routes tactile observations to specialized material classifiers for live robot deployment.
 
-This project combines force-controlled dual-press thickness estimation with a thickness-routed tactile Mixture-of-Experts. The method addresses live deployment domain shift in GelSight-based sheet-material recognition and achieves 86.9% 10-class Top-1 accuracy at 94.9% coverage.
+**Work content:** force control, compliance compensation, thickness routing, tactile classification, Streamlit operator UI.  
+**Key indicators:** 0.019 mm thickness MAE, 86.9% Top-1 accuracy, 94.9% coverage.
 
-## Earlier Publications
+## Earlier Robotics Work
 
-### Motion Simulation of a Tensegrity Snake-like Robot Based on the Serpenoid Curve
+Worked on tensegrity snake-like robot motion simulation and deep reinforcement learning for double inverted pendulum control.
 
-**Xiaoshi Zhang**, et al. *Journal of Physics: Conference Series*, 2021.  
-[Paper](https://iopscience.iop.org/article/10.1088/1742-6596/1965/1/012033/meta)
-
-This work studies a cable-driven tensegrity snake-like robot, derives inverse kinematics based on the serpenoid curve, and verifies motion feasibility through simulation.
-
-### Deep Reinforcement Learning for Double Inverted Pendulum Problem
-
-**Xiaoshi Zhang**, et al. Accepted by the 5th International Conference on Machine Learning and Machine Intelligence.  
-
-This work compares DDPG and TD3 on stabilization, swing-up, and upper-pendulum rotating control tasks for the double inverted pendulum system.
+**Work content:** kinematics, ADAMS-Simulink co-simulation, DDPG, TD3, continuous-control simulation.

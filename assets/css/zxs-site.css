@@ -169,7 +169,7 @@ h3 {
 
 .metric,
 .card,
-.paper,
+.work-item,
 .experience {
   background: var(--wash);
   border: 1px solid var(--line);
@@ -207,6 +207,36 @@ h3 {
   width: 100%;
 }
 
+.visual-panel {
+  align-items: flex-start;
+  aspect-ratio: 4 / 3;
+  background: linear-gradient(135deg, #f6f9fc 0%, #e8f1f4 100%);
+  border-bottom: 1px solid var(--line);
+  color: var(--ink);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 1rem;
+}
+
+.project .visual-panel {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+
+.visual-panel strong {
+  display: block;
+  font-size: 1.05rem;
+  line-height: 1.25;
+}
+
+.visual-panel span {
+  color: var(--muted);
+  display: block;
+  font-size: 0.8rem;
+  margin-top: 0.3rem;
+}
+
 .card-body {
   padding: 1rem;
 }
@@ -234,12 +264,12 @@ h3 {
   border-radius: 8px;
 }
 
-.paper,
+.work-item,
 .experience {
   margin-bottom: 1rem;
 }
 
-.paper h3,
+.work-item h3,
 .experience h3 {
   margin-top: 0;
 }

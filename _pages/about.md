@@ -14,7 +14,7 @@ redirect_from:
   <p class="zxs-lead">My work combines bio-inspired tactile sensor hardware, force-vision fusion, physics-guided learning, and real-time robot control. I am especially interested in dexterous manipulation systems that close the loop between tactile perception and action.</p>
   <div class="zxs-actions">
     <a class="btn btn--primary" href="{{ '/projects/' | relative_url }}">Selected Projects</a>
-    <a class="btn" href="{{ '/publications/' | relative_url }}">Publications</a>
+    <a class="btn" href="{{ '/publications/' | relative_url }}">Work Highlights</a>
     <a class="btn" href="{{ '/cv/' | relative_url }}">CV</a>
   </div>
 </section>
@@ -38,21 +38,18 @@ My current research agenda is organized around three questions:
 
 <div class="zxs-project-grid">
   <article class="zxs-card">
-    <img src="{{ '/images/research/hytouch-overview.png' | relative_url }}" alt="HyTouch tactile sensor paper overview">
     <h3>HyTouch: Bio-inspired Hybrid Tactile Sensor</h3>
     <p>A co-located visual-tactile and force-tactile sensor designed to address the tactile trilemma: high spatial resolution, high temporal response, and distributed force sensing.</p>
     <p class="zxs-tags">Sensor hardware / multimodal fusion / robotic manipulation</p>
     <a href="{{ '/projects/#hytouch' | relative_url }}">Read project</a>
   </article>
   <article class="zxs-card">
-    <img src="{{ '/images/research/gelxela-overview.png' | relative_url }}" alt="GelXelaCrossAttn tactile prediction paper overview">
     <h3>GelXelaCrossAttn: Real-Time Tactile State Prediction</h3>
     <p>A lightweight force-vision cross-attention model that predicts the next GelSight frame from XELA force readings with sub-10 ms inference.</p>
     <p class="zxs-tags">Cross-attention / force-vision fusion / real-time inference</p>
     <a href="{{ '/projects/#gelxela' | relative_url }}">Read project</a>
   </article>
   <article class="zxs-card">
-    <img src="{{ '/images/research/material-moe-overview.png' | relative_url }}" alt="Tactile mixture-of-experts material identification overview">
     <h3>Thickness-Routed Tactile Mixture-of-Experts</h3>
     <p>A two-stage force-tactile pipeline for robust sheet-material identification under live deployment domain shift.</p>
     <p class="zxs-tags">GelSight / force control / mixture-of-experts</p>
