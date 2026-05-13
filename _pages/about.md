@@ -14,7 +14,7 @@ redirect_from:
   <p class="zxs-lead">My work combines bio-inspired tactile sensor hardware, force-vision fusion, physics-guided learning, and real-time robot control. I am especially interested in dexterous manipulation systems that close the loop between tactile perception and action.</p>
   <div class="zxs-actions">
     <a class="btn btn--primary" href="{{ '/projects/' | relative_url }}">Selected Projects</a>
-    <a class="btn" href="{{ '/publications/' | relative_url }}">Work Highlights</a>
+    <a class="btn" href="{{ '/publications/' | relative_url }}">Publications & Work</a>
     <a class="btn" href="{{ '/cv/' | relative_url }}">CV</a>
   </div>
 </section>
