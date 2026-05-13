@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Projects | Xiaoshi Zhang</title>
+  <link rel="stylesheet" href="../assets/css/zxs-site.css">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="nav">
+      <a class="brand" href="../">Xiaoshi Zhang</a>
+      <div class="nav-links">
+        <a href="../#research">Research</a>
+        <a href="./">Projects</a>
+        <a href="../publications/">Publications</a>
+        <a href="../cv/">CV</a>
+        <a href="../moreaboutme/">Beyond Research</a>
+      </div>
+    </nav>
+  </header>
+  <main class="wrap">
+    <h1>Selected Projects</h1>
+    <p class="lead">A selected view of my tactile robotics work across sensor design, force-controlled acquisition, real-time learning, and deployment-oriented evaluation.</p>
+
+    <section class="project" id="hytouch">
+      <img src="../images/research/hytouch-overview.png" alt="HyTouch tactile sensor overview">
+      <div>
+        <p class="kicker">Multimodal Tactile Sensor Hardware</p>
+        <h2>HyTouch: A Bio-inspired Hybrid Multimodal Tactile Sensor</h2>
+        <p>HyTouch integrates a high-resolution visual-tactile layer with a high-frequency distributed force-tactile layer. The project targets the tactile trilemma: robots need fine contact geometry, fast dynamic response, and spatially distributed force feedback in one fingertip.</p>
+        <ul>
+          <li>Designed a co-located and decoupled visual-tactile plus force-tactile architecture inspired by human skin receptors.</li>
+          <li>Built optical and signal-processing pipelines to reduce inter-modality interference, including image stitching and calibration.</li>
+          <li>Validated the prototype on high-speed cable following and tool-mediated material classification.</li>
+        </ul>
+        <p class="tags">300 Hz tracking / 24 cm/s cable following / 99.25% hybrid classification</p>
+        <a class="button" href="../files/hytouch-tactile-sensor.pdf">PDF</a>
+      </div>
+    </section>
+
+    <section class="project" id="gelxela">
+      <img src="../images/research/gelxela-overview.png" alt="GelXelaCrossAttn overview">
+      <div>
+        <p class="kicker">Real-Time Tactile Prediction</p>
+        <h2>GelXelaCrossAttn: Physics-Informed Cross-Modal Force-Vision Attention</h2>
+        <p>This work addresses a multi-rate sensing gap: GelSight provides dense tactile images at around 18 Hz, while XELA force arrays provide force readings at 100 Hz. The model uses current tactile images and fast force dynamics to predict the next tactile image before the camera catches up.</p>
+        <ul>
+          <li>Introduced a lightweight cross-attention model where image patches query force tokens derived from XELA taxel readings.</li>
+          <li>Added a physics-informed prediction head that separates dense gel deformation from illumination residuals.</li>
+          <li>Benchmarked CNN, STN, UNet, CVAE, copy-previous, and attention variants under a shared real-time latency budget.</li>
+        </ul>
+        <p class="tags">2.98 ms latency / 36.67 dB PSNR / 0.941 SSIM / 0.83M parameters</p>
+        <a class="button" href="../files/gelxela-cross-attention.pdf">PDF</a>
+      </div>
+    </section>
+
+    <section class="project" id="material-moe">
+      <img src="../images/research/material-moe-overview.png" alt="Tactile material identification overview">
+      <div>
+        <p class="kicker">Robust Tactile Deployment</p>
+        <h2>Robust Sheet-Material Identification via Dual-Press Thickness Estimation and Tactile MoE</h2>
+        <p>This project tackles the offline-to-live gap in tactile material classification. Instead of relying only on image appearance, the system first estimates material thickness through a force-controlled dual-press protocol, then routes each sample to a specialized tactile classifier.</p>
+        <ul>
+          <li>Implemented compliance-compensated thickness estimation using matched force waypoints from reference and test presses.</li>
+          <li>Built a thickness-routed Mixture-of-Experts with EfficientNet-B0 experts for thin, medium, and thick material bands.</li>
+          <li>Developed live robot acquisition and inference tooling, including a Streamlit operator interface.</li>
+        </ul>
+        <p class="tags">0.019 mm thickness MAE / 86.9% Top-1 / 94.9% coverage / Material I recovered from 0% to 96.4%</p>
+        <a class="button" href="../files/tactile-material-moe.pdf">PDF</a>
+      </div>
+    </section>
+  </main>
+  <footer class="footer"><div class="wrap">2026 Xiaoshi Zhang.</div></footer>
+</body>
+</html>
