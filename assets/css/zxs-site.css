@@ -382,6 +382,45 @@ h3 {
   margin: 0.15rem 0 0;
 }
 
+.xhs-post-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin: 1rem 0;
+}
+
+.xhs-post-card {
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.xhs-post-card a {
+  color: var(--ink);
+  display: block;
+  height: 100%;
+}
+
+.xhs-post-card a:hover {
+  text-decoration: none;
+}
+
+.xhs-post-card img {
+  aspect-ratio: 3 / 4;
+  display: block;
+  object-fit: cover;
+  object-position: top center;
+  width: 100%;
+}
+
+.xhs-post-card span {
+  display: block;
+  font-weight: 800;
+  line-height: 1.35;
+  padding: 0.85rem 0.95rem 1rem;
+}
+
 .footer {
   border-top: 1px solid var(--line);
   color: var(--muted);
@@ -394,6 +433,7 @@ h3 {
   .hero,
   .project,
   .social-card,
+  .xhs-post-grid,
   .identity-grid,
   .metrics,
   .cards {
