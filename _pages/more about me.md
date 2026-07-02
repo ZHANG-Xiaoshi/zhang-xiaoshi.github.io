@@ -29,6 +29,8 @@ Handle: 贝叶斯主义三季人
 ID: 4943524355  
 Focus: PhD reflections in Southeast Asia, research taste, and technical growth.
 
+[Open Xiaohongshu](https://www.xiaohongshu.com/search_result?keyword=4943524355)
+
 My Bilibili profile is here: [Bilibili](https://space.bilibili.com/35237895?spm_id_from=333.1007.0.0). LinkedIn can be added here once the final public profile link is ready.
 
 ## Movement and Balance
