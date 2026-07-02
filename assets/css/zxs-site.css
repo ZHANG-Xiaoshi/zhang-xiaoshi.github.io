@@ -144,11 +144,11 @@ h3 {
 }
 
 .hero-photo img {
-  aspect-ratio: 4 / 3;
+  aspect-ratio: 2 / 3;
   display: block;
   height: auto;
   object-fit: cover;
-  object-position: center center;
+  object-position: center top;
   width: 100%;
 }
 
