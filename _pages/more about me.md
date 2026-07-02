@@ -21,7 +21,15 @@ During the PhD process, I have become increasingly interested in AI agents: not 
 
 During my undergraduate years I made self-media content, which trained me to explain ideas, sense audience attention, and turn scattered experience into narrative. I am now experimenting with a more refined Xiaohongshu account around PhD reflections, research taste, and the lived process of technical growth.
 
-My Bilibili profile is here: [Bilibili](https://space.bilibili.com/35237895?spm_id_from=333.1007.0.0). LinkedIn and Xiaohongshu links can be added here once the final public profiles are ready.
+### Xiaohongshu
+
+![Xiaohongshu profile card](/images/social/xiaohongshu-profile.jpg)
+
+Handle: 贝叶斯主义三季人  
+ID: 4943524355  
+Focus: PhD reflections in Southeast Asia, research taste, and technical growth.
+
+My Bilibili profile is here: [Bilibili](https://space.bilibili.com/35237895?spm_id_from=333.1007.0.0). LinkedIn can be added here once the final public profile link is ready.
 
 ## Movement and Balance
 

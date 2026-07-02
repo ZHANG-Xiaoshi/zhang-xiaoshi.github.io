@@ -274,6 +274,43 @@ h3 {
   margin-top: 0;
 }
 
+.social-card {
+  align-items: start;
+  background: var(--wash);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: minmax(180px, 0.45fr) minmax(0, 0.55fr);
+  margin: 1rem 0;
+  padding: 1rem;
+}
+
+.social-card img {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  display: block;
+  height: auto;
+  width: 100%;
+}
+
+.social-card dl {
+  margin: 0;
+}
+
+.social-card dt {
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  margin-top: 0.75rem;
+  text-transform: uppercase;
+}
+
+.social-card dd {
+  margin: 0.15rem 0 0;
+}
+
 .footer {
   border-top: 1px solid var(--line);
   color: var(--muted);
@@ -285,6 +322,7 @@ h3 {
 @media (max-width: 880px) {
   .hero,
   .project,
+  .social-card,
   .metrics,
   .cards {
     grid-template-columns: 1fr;
