@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Robotic Tactile Intelligence"
-excerpt: "Multimodal tactile sensing, real-time prediction, and dexterous robotic manipulation."
+title: "Xiaoshi Zhang"
+excerpt: "PhD, robotics, agents, systems thinking, and public writing."
 author_profile: true
 redirect_from:
   - /about/
@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 <section class="zxs-hero">
-  <p class="zxs-kicker">Robotic Tactile Intelligence</p>
-  <h1>Xiaoshi Zhang builds tactile perception systems for robots that need to feel, predict, and act in contact-rich environments.</h1>
-  <p class="zxs-lead">My work combines bio-inspired tactile sensor hardware, force-vision fusion, physics-guided learning, and real-time robot control. I am also an INTP-style systems thinker: a PhD researcher moving from Northeast Asia to Southeast Asia, exploring how robots, agents, and human practice can become better ways of understanding intelligence.</p>
+  <p class="zxs-kicker">Northeast Asia to Southeast Asia</p>
+  <h1>Xiaoshi Zhang is a Harbin-trained problem solver, INTP systems thinker, and PhD researcher living between robotics, agents, and public writing.</h1>
+  <p class="zxs-lead">I am building a life around systems: tactile robots that learn through contact, AI agents that reshape research work, and public notes about the actual process of becoming sharper during a PhD.</p>
   <div class="zxs-actions">
     <a class="btn btn--primary" href="{{ '/projects/' | relative_url }}">Selected Projects</a>
     <a class="btn" href="{{ '/publications/' | relative_url }}">Publications & Work</a>

@@ -72,10 +72,11 @@ a:hover {
 }
 
 .hero {
+  align-items: center;
   display: grid;
-  gap: 2rem;
-  grid-template-columns: minmax(0, 1.35fr) minmax(240px, 0.65fr);
-  padding: 4rem 1.2rem 3rem;
+  gap: 2.4rem;
+  grid-template-columns: minmax(0, 1fr) minmax(320px, 0.9fr);
+  padding: 3.4rem 1.2rem 2.4rem;
 }
 
 .kicker {
@@ -112,6 +113,53 @@ h3 {
   max-width: 780px;
 }
 
+.identity-line {
+  color: var(--accent-2);
+  font-size: 0.98rem;
+  font-weight: 800;
+  margin: 0 0 0.85rem;
+}
+
+.pill-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 1.05rem 0 0;
+}
+
+.pill {
+  background: var(--wash);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  color: #30445f;
+  font-size: 0.78rem;
+  font-weight: 750;
+  padding: 0.35rem 0.58rem;
+}
+
+.hero-photo {
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.hero-photo img {
+  aspect-ratio: 4 / 3;
+  display: block;
+  height: auto;
+  object-fit: cover;
+  object-position: center center;
+  width: 100%;
+}
+
+.hero-photo p {
+  background: var(--wash);
+  color: var(--muted);
+  font-size: 0.86rem;
+  margin: 0;
+  padding: 0.85rem 1rem;
+}
+
 .profile {
   align-self: start;
   border: 1px solid var(--line);
@@ -140,6 +188,29 @@ h3 {
   flex-wrap: wrap;
   gap: 0.65rem;
   margin-top: 1.2rem;
+}
+
+.identity-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.identity-card {
+  background: var(--wash);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 1rem;
+}
+
+.identity-card h3 {
+  color: var(--ink);
+  margin-top: 0;
+}
+
+.identity-card p {
+  color: var(--muted);
+  margin-bottom: 0;
 }
 
 .button {
@@ -323,6 +394,7 @@ h3 {
   .hero,
   .project,
   .social-card,
+  .identity-grid,
   .metrics,
   .cards {
     grid-template-columns: 1fr;
