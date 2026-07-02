@@ -39,13 +39,13 @@ These are selected public notes that show the thinking side of the PhD journey: 
 
 [![省下的5块钱，毁掉了一个博士的一生](/images/xhs/post-save-five-yuan.jpg)](https://www.xiaohongshu.com/explore/69c9560c000000001a02ef12?xsec_token=ABrFDXdxNAv2KHDJ-5EWWR_MStKRMw08LMpZ9RIdxbis0=&xsec_source=pc_user)
 
-### 张雪峰到底从来没离开过底层
+### 张雪峰到死都没离开过东北
 
-[![张雪峰到底从来没离开过底层](/images/xhs/post-zhang-xuefeng.jpg)](https://www.xiaohongshu.com/explore/69eb6c77000000001b0235ef?xsec_token=ABPEorBywl7B6g7iCx_T2rvq351Pbw6R4tMshGqUnAWQI=&xsec_source=pc_search)
+[![张雪峰到死都没离开过东北](/images/xhs/post-zhang-xuefeng.jpg)](https://www.xiaohongshu.com/explore/69eb6c77000000001b0235ef?xsec_token=ABPEorBywl7B6g7iCx_T2rvq351Pbw6R4tMshGqUnAWQI=&xsec_source=pc_search)
 
-### 因为冲突，我更清醒
+### 因为腰突悟了“天道”
 
-[![因为冲突，我更清醒](/images/xhs/post-conflict-clearer.jpg)](https://www.xiaohongshu.com/explore/6a43e27b00000000080028c4?xsec_token=AB3Coww9d1fMe7R4Qjja2EEcbVSj2-nEL8vdcW4pe6u-A=&xsec_source=)
+[![因为腰突悟了“天道”](/images/xhs/post-conflict-clearer.jpg)](https://www.xiaohongshu.com/explore/6a43e27b00000000080028c4?xsec_token=AB3Coww9d1fMe7R4Qjja2EEcbVSj2-nEL8vdcW4pe6u-A=&xsec_source=)
 
 My Bilibili profile is here: [Bilibili](https://space.bilibili.com/35237895?spm_id_from=333.1007.0.0). LinkedIn can be added here once the final public profile link is ready.
 
